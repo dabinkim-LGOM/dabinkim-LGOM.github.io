@@ -35,6 +35,11 @@
       </div>
     {% endif %}
     <p class="pub__item-links" itemprop="description">
+      
+    {% for file in post.file %}
+      [<a href="{{base_path}}">{{ file }} </a>]
+    {% endfor %} 
+
     {% for link in post.links %}
       {% if link.name and link.link contains "http" %}
         [<a href="{{ link.link }}">{{ link.name }}</a>]

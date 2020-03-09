@@ -5,6 +5,7 @@ title: "Decentralized Planning for Active Information Gathering on Targets with 
 conference: IROS
 links: 
  - paper: 
+   file: download/IROS20_full.pdf
    link: https://arxiv.org/abs/1907.08388
    name: "Paper(draft)"
 #  - video:
