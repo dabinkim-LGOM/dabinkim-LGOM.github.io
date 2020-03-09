@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Dabin Kim"
-  avatar           : #"Profile.jpg"
+  avatar           : "dabin.jpg"
   bio              : "M.S/Ph.D integrated course in Mechanical & Aerospace Engineering in SNU."
   location         : "Seoul, South Korea"
   email            : "dabin404@snu.ac.kr"
