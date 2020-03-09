@@ -6,7 +6,7 @@ conference: IROS
 links: 
  - paper: 
    file: download/IROS20_full.pdf
-   link: https://arxiv.org/abs/1907.08388
+   link: download/IROS20_full.pdf
    name: "Paper(draft)"
 #  - video:
 #    link: https://www.youtube.com/watch?v=G-fS2iqzi1w
