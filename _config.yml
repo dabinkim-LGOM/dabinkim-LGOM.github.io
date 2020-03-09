@@ -114,8 +114,8 @@ author:
 
 # Reading Files
 include:
-  #- .htaccess
-  #- _pages
+  - .htaccess
+  - _pages
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -244,15 +244,15 @@ defaults:
       comments: true
       share: true
       related: true
-  - 
-    scope:
-      path: "blog"
-      type: "posts"
-    values:
-      layout: "single"
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  # - 
+  #   scope:
+  #     path: "blog"
+  #     type: "posts"
+  #   values:
+  #     layout: "single"
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
 

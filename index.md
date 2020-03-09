@@ -26,12 +26,12 @@ header:
 In Spring 2019, I joined <a href="http://larr.snu.ac.kr/" target="_blank">LARR</a> (former ICSL) in Seoul National University to pursue research in **Robotics**.
 
 <!-- [comment]: <> (I am very grateful for the many friends, advisors and my family which support me on this journey.) -->
-[comment]: <> (### developing artificial 3D perception)
+<!-- [comment]: <> (### developing artificial 3D perception) -->
 
 My research interests in robotics are in **Integrating Perception and Planning** ( Active Perception) and **Motion Planning for Aerial vehicles**.
  <!-- [[1]]. -->
 
-{% include feature_row id="feature_row_pub" caption="Featured Publications" %}
+<!-- {% include feature_row id="feature_row_pub" caption="Featured Publications" %} -->
 
 <!-- [1]: {{ base_path }}/pub/Robust-Real-time-RGB-D-Visual-Odometry-in-Dynamic-Environments-via-Rigid-Motion-Model/ "Robust Visual Odometry via Rigid Motion Model" -->
 <!-- [1]: {{ base_path }}/pub/Robust-Real-time-RGB-D-Visual-Odometry-in-Dynamic-Environments-via-Rigid-Motion-Model/ "Robust Visual Odometry via Rigid Motion Model" -->
