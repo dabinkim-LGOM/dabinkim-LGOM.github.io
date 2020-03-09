@@ -1,5 +1,5 @@
 ---
-title: "Exposure Correction and Image Blending for Planar Panorama Stitching"
+title: "Trajectory Tracking for Cooperative Transportation with T$^3$-multirotor"
 # header:
 #   teaser: tumbnails/res_261.jpg
 conference: ICCAS
