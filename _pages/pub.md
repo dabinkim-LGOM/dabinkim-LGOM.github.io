@@ -10,17 +10,7 @@ excerpt: "Publications"
 	{% include archive-pub-single.html %}
 {% endfor %}
 
-{% include base_path %}
 
-<!-- 
-{% for post in paginator.posts %}
-  {% if post.category == "blog" %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
-{% include paginator.html %}
---!>
 
 
 
