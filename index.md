@@ -28,7 +28,7 @@ In Spring 2019, I joined <a href="http://larr.snu.ac.kr/" target="_blank">LARR</
 <!-- [comment]: <> (I am very grateful for the many friends, advisors and my family which support me on this journey.) -->
 <!-- [comment]: <> (### developing artificial 3D perception) -->
 
-My research interests in robotics are in **Integrating Perception and Planning** ( Active Perception) and **Motion Planning for Aerial vehicles**.
+My research interests in robotics are in **Integrating Perception and Planning** ( Active Perception) and **Motion Planning for Aerial Vehicles**.
  <!-- [[1]]. -->
 
 <!-- {% include feature_row id="feature_row_pub" caption="Featured Publications" %} -->
