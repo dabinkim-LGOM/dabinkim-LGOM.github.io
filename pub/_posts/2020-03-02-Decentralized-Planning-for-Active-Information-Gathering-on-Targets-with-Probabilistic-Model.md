@@ -1,8 +1,8 @@
 ---
-title: "Decentralized Planning for Active Information Gathering on Targets with Probabilistic Model"
+title: "Decentralized Planning for Active Information Gathering on Targets with Probabilistic Model (Under Review)"
 # header:
   # teaser: tumbnails/IROS2019.PNG
-conference: IROS(Under Review)
+conference: IROS
 links: 
  - paper: 
    link: https://arxiv.org/abs/1907.08388
