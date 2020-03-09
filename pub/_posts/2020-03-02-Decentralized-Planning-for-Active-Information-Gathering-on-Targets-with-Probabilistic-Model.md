@@ -5,14 +5,14 @@ title: "Decentralized Planning for Active Information Gathering on Targets with 
 conference: IROS
 links: 
  - paper: 
-   file: download/IROS20_full.pdf
+  #  file: download/IROS20_full.pdf
    link: https://dabinkim-lgom.github.io/download/IROS20_full.pdf
    name: "Paper(draft)"
 #  - video:
 #    link: https://www.youtube.com/watch?v=G-fS2iqzi1w
 #    name: "Video"
- - bibtex: 
-   name: "Bibtex"
+#  - bibtex: 
+#    name: "Bibtex"
 ---
 
 <!-- {% include youtubePlayer.html id="G-fS2iqzi1w" %} -->
