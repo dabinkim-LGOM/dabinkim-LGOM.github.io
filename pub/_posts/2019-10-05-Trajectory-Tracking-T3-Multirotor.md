@@ -1,5 +1,5 @@
 ---
-title: "Trajectory Tracking for Cooperative Transportation with T$^3$-multirotor"
+title: "Trajectory Tracking for Cooperative Transportation with T3-multirotor"
 # header:
 #   teaser: tumbnails/res_261.jpg
 conference: ICCAS
