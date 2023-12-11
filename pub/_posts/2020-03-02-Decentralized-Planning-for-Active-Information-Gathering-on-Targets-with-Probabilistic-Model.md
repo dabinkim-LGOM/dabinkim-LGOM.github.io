@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Decentralized Planning for Active Information Gathering on Targets with Probabilistic Model (Under Review)"
 # header:
   # teaser: tumbnails/IROS2019.PNG
@@ -23,4 +23,4 @@ Motion strategies for multiple robots actively acquiring information in a dynami
 
 ## Bibtex <a id="bibtex"></a>
 ```
-```
+``` -->
