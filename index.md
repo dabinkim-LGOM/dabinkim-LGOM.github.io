@@ -23,7 +23,7 @@ header:
   #   excerpt: "ICSL Dynamic Environments (ICSL-DE) dataset includes image sequences collected in dynamic environments."
 ---
 
-In Spring 2019, I joined <a href="http://larr.snu.ac.kr/" target="_blank">LARR</a> (former ICSL) in Seoul National University to pursue research in **Robotics**.
+In Spring 2019, I joined <a href="http://larr.snu.ac.kr/" target="_blank">LARR</a> in Seoul National University to pursue research in **Robotics**.
 
 <!-- [comment]: <> (I am very grateful for the many friends, advisors and my family which support me on this journey.) -->
 <!-- [comment]: <> (### developing artificial 3D perception) -->

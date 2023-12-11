@@ -1,7 +1,7 @@
 ---
 title: "Topology-guided path planning for reliable visual navigation of MAVs"
-# header:
-  # teaser: tumbnails/IROS2019.PNG
+header:
+  teaser: tumbnails/IROS21_thumbnail.PNG
 conference: IROS
 links: 
  - paper: 

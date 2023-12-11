@@ -1,7 +1,7 @@
 ---
 title: "Visibility-Constrained Control of Multirotor via Reference Governor"
-# header:
-  # teaser: tumbnails/IROS2019.PNG
+header:
+  teaser: tumbnails/cdc23.PNG
 conference: CDC
 links: 
  - paper: 
