@@ -99,6 +99,14 @@
     align-items: center;
   }
 
+  .pub__item-teaser img.teaser-img {
+    width: 60%;
+    max-width: 300px;
+    height: auto;
+    display: block;
+    margin: 0 auto;       /* Horizontally centers the image */
+  }
+
   .pub__item-excerpt {
     text-align: left;
     padding: 0 10px;
