@@ -31,7 +31,7 @@ In Spring 2019, I joined <a href="http://larr.snu.ac.kr/" target="_blank">LARR</
 My research interests in robotics are in **Integrating Perception and Planning** ( Active Perception) and **Motion Planning for Aerial Vehicles**.
 
 ---
-Read <a href="https://dabinkim-lgom.github.io/pub/Enhancing-Feature-Tracking-Reliability-for-Visual-Navigation-using-Real-Time-Safety-Filter/" target="_blank">the current post</a> about our recent work on **safety-critical control for visual SLAM** . 
+🔍 Read <a href="https://dabinkim-lgom.github.io/pub/Enhancing-Feature-Tracking-Reliability-for-Visual-Navigation-using-Real-Time-Safety-Filter/" target="_blank">the current post</a> about our recent work on **safety-critical control for visual SLAM** . 
  <!-- [[1]]. -->
 
 <!-- {% include feature_row id="feature_row_pub" caption="Featured Publications" %} -->
