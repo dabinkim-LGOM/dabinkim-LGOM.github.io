@@ -84,26 +84,25 @@
     text-indent: 0;
   }
 }
-@media (max-width: 768px) {
-.pub__teaser-excerpt-container {
-  flex-direction: column;
-  gap: 10px;
-  align-items: center;
-}
 
 .pub__item-teaser img.teaser-img {
   width: 60%;
   max-width: 300px;
   height: auto;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;       /* Horizontally centers the image */
 }
+@media (max-width: 768px) {
+  .pub__teaser-excerpt-container {
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+  }
 
-.pub__item-excerpt {
-  text-align: left;
-  padding: 0 10px;
-}
+  .pub__item-excerpt {
+    text-align: left;
+    padding: 0 10px;
+  }
 }
 .pub__item-teaser_leftOfText {
   float: left;
