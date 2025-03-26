@@ -34,14 +34,20 @@
       <p class="pub__item-authors">
         {% assign author_count = post.authors | size %}
         {% for author in post.authors %}
+          {% assign index = forloop.index0 %}
+
           {% if author == "Dabin Kim" %}
-            <strong>{{ author }}</strong>
-          {% elsif forloop.last and author_count > 1 %}
-            and {{ author }}
-          {% elsif forloop.index == author_count - 1 %}
-            {{ author }},
+            {% assign display_name = "<strong>" | append: author | append: "</strong>" %}
           {% else %}
-            {{ author }},
+            {% assign display_name = author %}
+          {% endif %}
+
+          {% if forloop.last and author_count > 1 %}
+            and {{ display_name }}
+          {% elsif forloop.index == author_count %}
+            {{ display_name }}
+          {% else %}
+            {{ display_name }},
           {% endif %}
         {% endfor %}
       </p>
