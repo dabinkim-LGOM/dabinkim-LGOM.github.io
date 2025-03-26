@@ -3,6 +3,12 @@ title: "Multi-robot active sensing and environmental model learning with distrib
 header:
   teaser: tumbnails/ral20.png
 conference: RA-L
+authors:
+  - Dohyun Jang
+  - Jaehyun Yoo
+  - Clark Youngdong Son
+  - Dabin Kim
+  - H. Jin Kim
 links: 
  - paper: 
    link: https://ieeexplore.ieee.org/abstract/document/9144385/

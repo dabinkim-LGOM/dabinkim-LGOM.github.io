@@ -3,6 +3,11 @@ title: "Visibility-Constrained Control of Multirotor via Reference Governor"
 header:
   teaser: tumbnails/cdc23.PNG
 conference: CDC
+authors:
+  - Dabin Kim
+  - Matthias Pezzutto
+  - Luca Schenato
+  - H. Jin Kim
 links: 
  - paper: 
   #  file: download/IROS20_full.pdf

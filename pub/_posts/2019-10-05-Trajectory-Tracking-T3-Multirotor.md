@@ -3,6 +3,10 @@ title: "Trajectory Tracking for Cooperative Transportation with T3-multirotor"
 # header:
 #   teaser: tumbnails/res_261.jpg
 conference: ICCAS
+authors:
+  - Dabin Kim
+  - Seung Jae Lee
+  - H. Jin Kim
 links: 
  - paper: 
    link: http://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09261517

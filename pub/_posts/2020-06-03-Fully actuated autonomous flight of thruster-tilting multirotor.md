@@ -3,6 +3,13 @@ title: "Fully Actuated Autonomous Flight of Thruster-Tilting Multirotor"
 header:
   teaser: tumbnails/tmech20.png
 conference: T-Mech
+authors:
+  - Seung Jae Lee
+  - Dongjae Lee
+  - Junha Kim
+  - Dabin Kim
+  - Inkyu Jang
+  - H. Jin Kim
 links: 
  - paper: 
    link: https://ieeexplore.ieee.org/abstract/document/9107475

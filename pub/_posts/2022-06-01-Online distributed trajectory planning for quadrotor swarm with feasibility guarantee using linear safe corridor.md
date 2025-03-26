@@ -3,6 +3,12 @@ title: "Online distributed trajectory planning for quadrotor swarm with feasibil
 header:
   teaser: tumbnails/ral22.png
 conference: RA-L
+authors:
+  - Jungwon Park
+  - Dabin Kim
+  - Gyeong Chan Kim
+  - Dahyun Oh
+  - H. Jin Kim
 links: 
  - paper: 
    link: https://ieeexplore.ieee.org/document/9718137/

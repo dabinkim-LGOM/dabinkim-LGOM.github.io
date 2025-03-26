@@ -6,6 +6,7 @@ conference: IROS
 authors:
   - Dabin Kim*
   - Gyeong Chan Kim*
+  - Youngseok Jang
   - H. Jin Kim
 links: 
  - paper: 

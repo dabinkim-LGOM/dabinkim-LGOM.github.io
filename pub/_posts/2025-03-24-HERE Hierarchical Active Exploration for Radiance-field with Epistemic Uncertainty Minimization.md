@@ -3,6 +3,10 @@ title: "HERE: Hierarchical Active Exploration for Radiance-field with Epistemic 
 # header:
 #   teaser: tumbnails/iccv25.png
 conference: ICCV
+authors:
+  - Taekbeom Lee*
+  - Dabin Kim*
+  - H. Jin Kim
 # links: 
 #  - paper: 
 #    link: https://arxiv.org/pdf/2502.01092

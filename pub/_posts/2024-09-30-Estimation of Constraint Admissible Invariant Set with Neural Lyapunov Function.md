@@ -3,6 +3,9 @@ title: "Estimation of Constraint Admissible Invariant Set with Neural Lyapunov F
 header:
   teaser: tumbnails/cdc24.png
 conference: CDC
+authors:
+  - Dabin Kim
+  - H. Jin Kim
 links: 
  - paper: 
    link: https://arxiv.org/abs/2409.19881

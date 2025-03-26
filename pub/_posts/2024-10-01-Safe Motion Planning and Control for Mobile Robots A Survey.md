@@ -3,6 +3,11 @@ title: "Safe Motion Planning and Control for Mobile Robots: A Survey"
 header:
   teaser: tumbnails/ijcas24.png
 conference: IJCAS
+authors:
+  - Sunwoo Hwang
+  - Inkyu Jang
+  - Dabin Kim
+  - H. Jin Kim
 links: 
  - paper: 
    link: https://link.springer.com/article/10.1007/s12555-024-0784-5

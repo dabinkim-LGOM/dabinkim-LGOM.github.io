@@ -3,6 +3,12 @@ title: "Enhancing Feature Tracking Reliability for Visual Navigation using Real-
 header:
   teaser: tumbnails/icra25.png
 conference: ICRA
+authors:
+  - Dabin Kim*
+  - Inkyu Jang*
+  - Youngsoo Han
+  - Sunwoo Hwang
+  - H. Jin Kim
 links: 
  - paper: 
    link: https://arxiv.org/pdf/2502.01092
