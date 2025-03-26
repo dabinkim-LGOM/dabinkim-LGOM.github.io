@@ -28,16 +28,23 @@
         </a>
       {% endif %}
     </h2>
+
     <!-- Authorship -->
     {% if post.authors %}
       <p class="pub__item-authors">
-        {% if post.authors.size %}
-          {{ post.authors | join: ", " }}
-        {% else %}
-          {{ post.authors }}
-        {% endif %}
+        {% assign author_count = post.authors | size %}
+        {% for author in post.authors %}
+          {% if forloop.last and author_count > 1 %}
+            and {{ author }}
+          {% elsif forloop.index == author_count - 1 %}
+            {{ author }},
+          {% else %}
+            {{ author }},
+          {% endif %}
+        {% endfor %}
       </p>
     {% endif %}
+
     <!-- Links directly under the title -->
     <p class="pub__item-links" itemprop="description">
       {% for link in post.links %}
