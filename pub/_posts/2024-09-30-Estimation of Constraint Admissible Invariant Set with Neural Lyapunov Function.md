@@ -22,10 +22,12 @@ Constraint admissible positively invariant (CAPI) sets play a pivotal role in en
 
 ## Bibtex <a id="bibtex"></a>
 ```
-@article{kim2024estimation,
+@inproceedings{kim2024estimation,
   title={Estimation of Constraint Admissible Invariant Set with Neural Lyapunov Function},
   author={Kim, Dabin and Kim, H Jin},
-  journal={arXiv preprint arXiv:2409.19881},
-  year={2024}
+  booktitle={2024 63rd IEEE Conference on Decision and Control (CDC)},
+  pages={5032--5039},
+  year={2024},
+  organization={IEEE}
 }
 ```
