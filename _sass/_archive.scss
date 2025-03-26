@@ -79,25 +79,20 @@
 }
 @media (max-width: 768px) {
 .pub__teaser-excerpt-container {
-  display: flex;
-  flex-direction: row;
-  gap: 20px;
-  align-items: flex-start;
-  margin-top: 10px;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
 }
 
 .pub__item-teaser img.teaser-img {
-  width: 80%;
-  max-width: 200px;
+  width: 100%;
+  max-width: 300px;
   height: auto;
-  object-fit: cover;
-  border-radius: 6px;
 }
 
 .pub__item-excerpt {
-  flex: 1;
-  font-size: 0.95rem;
-  line-height: 1.4;
+  text-align: left;
+  padding: 0 10px;
 }
 }
 .pub__item-teaser_leftOfText {
