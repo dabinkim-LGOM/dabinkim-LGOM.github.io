@@ -38,10 +38,10 @@ My research interests in robotics are in **Integrating Perception and Planning**
 <!-- NEWS -->
 ## 📰 News
 
-- Mar 2025 - 🔍 Blog post released: [Safety-Critical Control for Visual SLAM] ("https://dabinkim-lgom.github.io/pub/Enhancing-Feature-Tracking-Reliability-for-Visual-Navigation-using-Real-Time-Safety-Filter/) 
-<!-- <a href=" target="_blank">the current post</a> about our recent work on the **safety-critical control for visual SLAM**. -->
+- Mar 2025 - 🔍 Blog post released: <a href="https://dabinkim-lgom.github.io/pub/Enhancing-Feature-Tracking-Reliability-for-Visual-Navigation-using-Real-Time-Safety-Filter/" target="_blank">[Safety-Critical Control for Visual SLAM]</a>
 - Jan 2025 - Our paper is accepted for ICRA 2025. 
-
+- Dec 2024 - Attended to CDC 2024 and oral presentation! 
+- Sep 2024 - Visited and gave a talk at the Padova university about perception-aware planning and control. 
 ---
 <!-- PUBLICATIONS -->
 ## 📚 Selected Publications
