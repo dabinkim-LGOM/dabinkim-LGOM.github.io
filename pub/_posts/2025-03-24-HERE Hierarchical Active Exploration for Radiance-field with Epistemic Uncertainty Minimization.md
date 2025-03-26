@@ -13,7 +13,7 @@ links:
    name: "Paper"
  - video:
 #    link: https://www.youtube.com/watch?v=pZ9nvobevcs
-   name: "Video"
+   name: "Video" 
 excerpt: We present HERE, an active 3D reconstruction framework for neural radiance fields (NeRF) that uses uncertainty-guided exploration to efficiently generate camera trajectories for accurate and comprehensive scene reconstruction. By leveraging epistemic uncertainty and a hierarchical planning strategy, HERE achieves superior efficiency and accuracy in large, complex environments.
 ---
 
