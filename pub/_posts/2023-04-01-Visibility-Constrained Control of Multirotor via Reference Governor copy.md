@@ -11,9 +11,6 @@ links:
  - video:
    link: https://www.youtube.com/watch?v=SquHiHjRsMQ
    name: "Video"
- - bibtex:
-   link: https://scholar.googleusercontent.com/scholar.bib?q=info:rc-2JCTYPw0J:scholar.google.com/&output=citation&scisdr=ClEfF40REOOpnF213jY:AFWwaeYAAAAAZ-OzxjbmCol9JGFZZTzsCIFZJzo&scisig=AFWwaeYAAAAAZ-OzxkjCOm9ic0CMXUcTZLVmxJE&scisf=4&ct=citation&cd=-1&hl=ko
-   name: "Bibtex"
 ---
 
 <!-- {% include youtubePlayer.html id="G-fS2iqzi1w" %} -->

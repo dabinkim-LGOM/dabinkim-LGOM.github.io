@@ -6,13 +6,10 @@ conference: IROS
 links: 
  - paper: 
    link: https://dabinkim-lgom.github.io/download/IROS2021_final.pdf
-   name: "Paper(draft)"
+   name: "Paper"
  - video:
    link: https://www.youtube.com/watch?v=hPOXH6_0_IE
    name: "Video"
- - bibtex:
-   link: https://scholar.googleusercontent.com/scholar.bib?q=info:YwUvpI9uxpkJ:scholar.google.com/&output=citation&scisdr=ClGxkDOmEOOpnF9Tmus:AFWwaeYAAAAAZ-FVguvGS5NorV6_VGXqpaiKyww&scisig=AFWwaeYAAAAAZ-FVggNIpfjvZq-ep6YO8grhhKI&scisf=4&ct=citation&cd=-1&hl=ko 
-   name: "Bibtex"
 ---
 
 <!-- {% include youtubePlayer.html id="G-fS2iqzi1w" %} -->

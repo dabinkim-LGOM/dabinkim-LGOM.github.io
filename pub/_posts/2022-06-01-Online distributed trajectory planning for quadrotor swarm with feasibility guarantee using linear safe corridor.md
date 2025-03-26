@@ -10,9 +10,6 @@ links:
  - video:
    link: https://www.youtube.com/watch?v=cQ3yr-DMdhM
    name: "Video"
- - bibtex: 
-   link: https://scholar.googleusercontent.com/scholar.bib?q=info:1Orb6xbOU1sJ:scholar.google.com/&output=citation&scisdr=ClGxkDOmEOOpnF9S3c0:AFWwaeYAAAAAZ-FUxc3yiRXCNfCvvXMnp-NX0Ao&scisig=AFWwaeYAAAAAZ-FUxecAHf2M7eCk-ppTFXls95I&scisf=4&ct=citation&cd=-1&hl=ko
-   name: "Bibtex"
 ---
 
 <!-- {% include youtubePlayer.html id="G-fS2iqzi1w" %} -->
