@@ -36,7 +36,7 @@
         {% for author in post.authors %}
           {% assign index = forloop.index0 %}
 
-          {% if author == "Dabin Kim" %}
+          {% if author == "Dabin Kim" or author == "Dabin Kim*" %}
             {% assign display_name = "<strong>" | append: author | append: "</strong>" %}
           {% else %}
             {% assign display_name = author %}
