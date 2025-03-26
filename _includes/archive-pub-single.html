@@ -43,8 +43,33 @@
     </p>
 
     <!-- Teaser image -->
-    {% if teaser %}
-      <div class="pub__item-teaser_leftOfText">
+    <!-- {% if teaser %} -->
+    {% if teaser or post.excerpt %}
+      <div class="pub__teaser-excerpt-container">
+
+        {% if teaser %}
+          <div class="pub__item-teaser">
+            <a href="{{ base_path }}{{ post.url }}" rel="permalink">
+              <img class="teaser-img"
+                src=
+                  {% if teaser contains "://" %}
+                    "{{ teaser }}"
+                  {% else %}
+                    "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+                  {% endif %}
+                alt="">
+            </a>
+          </div>
+        {% endif %}
+    
+        {% if post.excerpt %}
+          <div class="pub__item-excerpt" itemprop="description">
+            {{ post.excerpt | markdownify | strip_html | truncate: 450 }}
+          </div>
+        {% endif %}
+      </div>
+    {% endif %}
+      <!-- <div class="pub__item-teaser_leftOfText">
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">
           <img class="teaser-img" 
           src=
@@ -53,7 +78,7 @@
             {% else %}
               "{{ teaser | prepend: "/images/" | prepend: base_path }}"
             {% endif %}
-          alt="">
+          alt=""> -->
           <!-- <img src=
           {% if teaser contains "://" %}
             "{{ teaser }}"
@@ -61,17 +86,16 @@
             "{{ teaser | prepend: "/images/" | prepend: base_path }}"
           {% endif %}
           alt=""> -->
-        </a>
+        <!-- </a>
       </div>
-    {% endif %}
+    {% endif %} -->
       
 
     <!-- Excerpt -->
-    {% if post.excerpt %}
+    <!-- {% if post.excerpt %}
       <p class="pub__item-excerpt" itemprop="description">
         {{ post.excerpt | markdownify | strip_html | truncate: 450 }}
       </p>
-    {% endif %}
-
+    {% endif %} -->
   </article>
 </div>
