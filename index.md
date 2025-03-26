@@ -23,6 +23,9 @@ header:
   #   excerpt: "ICSL Dynamic Environments (ICSL-DE) dataset includes image sequences collected in dynamic environments."
 ---
 
+<!-- ABOUT ME -->
+## 👋 About Me
+
 In Spring 2019, I joined <a href="http://larr.snu.ac.kr/" target="_blank">LARR</a> in Seoul National University to pursue research in **Robotics**.
 
 <!-- [comment]: <> (I am very grateful for the many friends, advisors and my family which support me on this journey.) -->
@@ -31,9 +34,27 @@ In Spring 2019, I joined <a href="http://larr.snu.ac.kr/" target="_blank">LARR</
 My research interests in robotics are in **Integrating Perception and Planning** ( Active Perception) and **Motion Planning for Aerial Vehicles**.
 
 ---
-🔍 Read <a href="https://dabinkim-lgom.github.io/pub/Enhancing-Feature-Tracking-Reliability-for-Visual-Navigation-using-Real-Time-Safety-Filter/" target="_blank">the current post</a> about our recent work on **safety-critical control for visual SLAM** . 
+
+<!-- NEWS -->
+## 📰 News
+
+- 🔍 Read <a href="https://dabinkim-lgom.github.io/pub/Enhancing-Feature-Tracking-Reliability-for-Visual-Navigation-using-Real-Time-Safety-Filter/" target="_blank">the current post</a> about our recent work on **safety-critical control for visual SLAM** . 
  <!-- [[1]]. -->
 
+
+---
+<!-- PUBLICATIONS -->
+## 📚 Selected Publications
+
+### [Enhancing Feature Tracking Reliability for Visual Navigation using Real-Time Safety Filter](https://arxiv.org/abs/2502.01092)  
+**Dabin Kim**, Inkyu Jang, Youngsoo Han, Sunwoo Hwang, H. Jin Kim  
+*arXiv, 2025*  
+A real-time safety filter enhances visual feature tracking by modifying robot velocity using a quadratic program.  
+
+<!-- Optionally add a button -->
+<p style="text-align: right;">
+  <a href="/publications/" class="button">See all publications →</a>
+</p>
 <!-- {% include feature_row id="feature_row_pub" caption="Featured Publications" %} -->
 
 <!-- [1]: {{ base_path }}/pub/Robust-Real-time-RGB-D-Visual-Odometry-in-Dynamic-Environments-via-Rigid-Motion-Model/ "Robust Visual Odometry via Rigid Motion Model" -->
