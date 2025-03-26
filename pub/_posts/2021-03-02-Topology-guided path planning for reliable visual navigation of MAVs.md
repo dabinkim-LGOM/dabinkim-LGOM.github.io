@@ -3,6 +3,10 @@ title: "Topology-guided path planning for reliable visual navigation of MAVs"
 header:
   teaser: tumbnails/IROS21_thumbnail.png
 conference: IROS
+authors:
+  - Dabin Kim*
+  - Gyeong Chan Kim*
+  - H. Jin Kim
 links: 
  - paper: 
    link: https://dabinkim-lgom.github.io/download/IROS2021_final.pdf

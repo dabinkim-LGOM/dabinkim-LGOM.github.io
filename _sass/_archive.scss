@@ -69,6 +69,13 @@
   }
 }
 
+.pub__item-authors {
+  font-style: italic;
+  margin: 5px 0;
+  color: #555;
+  font-size: 0.95rem;
+}
+
 .pub__item-links {
   margin-top: 0;
   font-size: $type-size-4;
