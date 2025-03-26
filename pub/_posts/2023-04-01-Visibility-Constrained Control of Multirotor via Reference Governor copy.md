@@ -6,13 +6,14 @@ conference: CDC
 links: 
  - paper: 
   #  file: download/IROS20_full.pdf
-   link: https://dabinkim-lgom.github.io/download/CDC23_arxiv.pdf
-   name: "Paper(draft)"
-#  - video:
-#    link: https://www.youtube.com/watch?v=hPOXH6_0_IE
-#    name: "Video"
-#  - bibtex: 
-#    name: "Bibtex"
+   link: https://arxiv.org/abs/2308.05334
+   name: "Paper"
+ - video:
+   link: https://www.youtube.com/watch?v=SquHiHjRsMQ
+   name: "Video"
+ - bibtex:
+   link: https://scholar.googleusercontent.com/scholar.bib?q=info:rc-2JCTYPw0J:scholar.google.com/&output=citation&scisdr=ClEfF40REOOpnF213jY:AFWwaeYAAAAAZ-OzxjbmCol9JGFZZTzsCIFZJzo&scisig=AFWwaeYAAAAAZ-OzxkjCOm9ic0CMXUcTZLVmxJE&scisf=4&ct=citation&cd=-1&hl=ko
+   name: "Bibtex"
 ---
 
 <!-- {% include youtubePlayer.html id="G-fS2iqzi1w" %} -->
@@ -23,4 +24,12 @@ For safe vision-based control applications, perception-related constraints have 
 
 ## Bibtex <a id="bibtex"></a>
 ```
+@inproceedings{kim2023visibility,
+  title={Visibility-constrained control of multirotor via reference governor},
+  author={Kim, Dabin and Pezzutto, Matthias and Schenato, Luca and Kim, H Jin},
+  booktitle={2023 62nd IEEE Conference on Decision and Control (CDC)},
+  pages={5714--5721},
+  year={2023},
+  organization={IEEE}
+}
 ```
