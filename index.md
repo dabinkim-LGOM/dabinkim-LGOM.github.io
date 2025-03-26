@@ -26,7 +26,7 @@ header:
 <!-- ABOUT ME -->
 ## 👋 About Me
 
-Hello! I’m Dabin Kim, a Ph.D. student in Mechanical and Aerospace Engineering at Seoul National University, working in the <a href="http://larr.snu.ac.kr/" target="_blank">Lab for Autonomous Robotics (LARR)</a> under the supervision of Prof. H. Jin Kim.
+Hello! I’m Dabin Kim, a Ph.D. student in <a href="https://aerospace.snu.ac.kr/en" target="_blank">Mechanical and Aerospace Engineering</a> at <a href="https://en.snu.ac.kr/" target="_blank">Seoul National University</a>, working in the <a href="http://larr.snu.ac.kr/" target="_blank">Lab for Autonomous Robotics (LARR)</a> under the supervision of <a href="https://scholar.google.co.kr/citations?user=TLQUwIMAAAAJ&hl=en" target="_blank">Prof. H. Jin Kim</a>.
 
 I received my B.S. degrees in Mechanical and Aerospace Engineering from Seoul National University.
 
