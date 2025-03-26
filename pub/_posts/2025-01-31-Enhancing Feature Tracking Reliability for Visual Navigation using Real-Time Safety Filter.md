@@ -72,7 +72,7 @@ _A diagram showing:_
 - Without our filter, the robot frequently lost track of features.
 - With our filter, it slowed or adjusted direction to maintain trackability.
 
-<div style="display: flex; gap: 20px; justify-content: center; text-align: center;">
+<div style="background: transparent; display: flex; gap: 20px; justify-content: center; text-align: center;">
 
   <div style="flex: 1;">
     <img src="/images/blog/icra25/sim_baseline.gif" alt="Sim" style="width: 100%; max-width: 400px;">
