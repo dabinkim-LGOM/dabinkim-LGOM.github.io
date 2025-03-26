@@ -38,9 +38,8 @@ My research interests in robotics are in **Integrating Perception and Planning**
 <!-- NEWS -->
 ## 📰 News
 
-- 🔍 Read <a href="https://dabinkim-lgom.github.io/pub/Enhancing-Feature-Tracking-Reliability-for-Visual-Navigation-using-Real-Time-Safety-Filter/" target="_blank">the current post</a> about our recent work on **safety-critical control for visual SLAM** . 
- <!-- [[1]]. -->
-
+- 🔍 Read <a href="https://dabinkim-lgom.github.io/pub/Enhancing-Feature-Tracking-Reliability-for-Visual-Navigation-using-Real-Time-Safety-Filter/" target="_blank">the current post</a> about our recent work on the **safety-critical control for visual SLAM**.
+- Our paper is accepted for ICRA 2025. 
 
 ---
 <!-- PUBLICATIONS -->
@@ -48,12 +47,12 @@ My research interests in robotics are in **Integrating Perception and Planning**
 
 ### [Enhancing Feature Tracking Reliability for Visual Navigation using Real-Time Safety Filter](https://arxiv.org/abs/2502.01092)  
 **Dabin Kim**, Inkyu Jang, Youngsoo Han, Sunwoo Hwang, H. Jin Kim  
-*arXiv, 2025*  
+*ICRA, 2025*  
 A real-time safety filter enhances visual feature tracking by modifying robot velocity using a quadratic program.  
 
 <!-- Optionally add a button -->
 <p style="text-align: right;">
-  <a href="/publications/" class="button">See all publications →</a>
+  <a href="https://dabinkim-lgom.github.io/_pages/pub/index.html" class="button">See all publications →</a>
 </p>
 <!-- {% include feature_row id="feature_row_pub" caption="Featured Publications" %} -->
 
