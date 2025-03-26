@@ -52,7 +52,7 @@ My research focuses on **integrating perception and planning** for mobile robots
 ## 📚 Selected Publications
 
 ### [Enhancing Feature Tracking Reliability for Visual Navigation using Real-Time Safety Filter](https://arxiv.org/abs/2502.01092)  
-**Dabin Kim**, Inkyu Jang, Youngsoo Han, Sunwoo Hwang, and H. Jin Kim  
+**Dabin Kim\***, Inkyu Jang\*, Youngsoo Han, Sunwoo Hwang, and H. Jin Kim  
 **2025 ICRA**  
 A real-time safety filter enhances visual feature tracking by modifying robot velocity using a quadratic program.  
 
