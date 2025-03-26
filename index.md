@@ -31,7 +31,7 @@ In Spring 2019, I joined <a href="http://larr.snu.ac.kr/" target="_blank">LARR</
 <!-- [comment]: <> (I am very grateful for the many friends, advisors and my family which support me on this journey.) -->
 <!-- [comment]: <> (### developing artificial 3D perception) -->
 
-My research interests in robotics are in **Integrating Perception and Planning** ( Active Perception) and **Motion Planning for Aerial Vehicles**.
+My research interests in robotics are in **Integrating Perception and Planning** for mobile robots. 
 
 ---
 
@@ -48,9 +48,19 @@ My research interests in robotics are in **Integrating Perception and Planning**
 ## 📚 Selected Publications
 
 ### [Enhancing Feature Tracking Reliability for Visual Navigation using Real-Time Safety Filter](https://arxiv.org/abs/2502.01092)  
-**Dabin Kim**, Inkyu Jang, Youngsoo Han, Sunwoo Hwang, H. Jin Kim  
-*ICRA, 2025*  
+**Dabin Kim**, Inkyu Jang, Youngsoo Han, Sunwoo Hwang, and H. Jin Kim  
+**ICRA, 2025**  
 A real-time safety filter enhances visual feature tracking by modifying robot velocity using a quadratic program.  
+
+### [Estimation of Constraint Admissible Invariant Set with Neural Lyapunov Function](https://arxiv.org/abs/2409.19881)  
+**Dabin Kim** and H. Jin Kim  
+**CDC, 2024**  
+Learning-based estimation of CAPI sets for general reference tracking and real-time constrained control using neural Lyapunov functions.  
+
+### [Visibility-Constrained Control of Multirotor via Reference Governor](https://arxiv.org/abs/2308.05334)  
+**Dabin Kim**, Matthias Pezzutto, Luca Schenato, and H. Jin Kim  
+**CDC, 2023** 
+Reference governor for real-time multirotor control that enforces visibility constraints with guaranteed feasibility under time-varying references.
 
 <!-- Optionally add a button -->
 <p style="text-align: right;">
