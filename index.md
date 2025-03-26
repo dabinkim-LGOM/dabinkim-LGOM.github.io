@@ -41,9 +41,11 @@ My research focuses on **integrating perception and planning** for mobile robots
 ## 📰 News
 
 - Mar 2025 - 🔍 Post for our recent paper released: <a href="https://dabinkim-lgom.github.io/pub/Enhancing-Feature-Tracking-Reliability-for-Visual-Navigation-using-Real-Time-Safety-Filter/" target="_blank">[Safety-Critical Control for Visual SLAM]</a>
-- Jan 2025 - Our paper is accepted for ICRA 2025. 
-- Dec 2024 - Attended to CDC 2024 and oral presentation! 
-- Sep 2024 - Visited and gave a talk at the Padova university about perception-aware planning and control. 
+- Jan 2025 - Our paper was accepted to ICRA 2025. 
+- Dec 2024 - Gave an oral presentation at the CDC 2024.
+- Oct 2024 - Our survey paper was accepted to IJCAS (International Journal of Control, Automation, and Systems).
+- Sep 2024 - Visited the University of Padova and gave a talk on perception-aware planning and control. 
+- Jul 2024 - Our paper was accepted to CDC 2024.
 
 ---
 <!-- PUBLICATIONS -->
