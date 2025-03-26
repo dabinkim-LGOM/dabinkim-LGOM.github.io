@@ -2,7 +2,7 @@
 title: "Online distributed trajectory planning for quadrotor swarm with feasibility guarantee using linear safe corridor"
 header:
   teaser: tumbnails/ral22.png
-conference: R-AL
+conference: RA-L
 links: 
  - paper: 
    link: https://ieeexplore.ieee.org/document/9718137/
