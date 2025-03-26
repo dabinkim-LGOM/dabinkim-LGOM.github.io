@@ -49,17 +49,17 @@ My research interests in robotics are in **Integrating Perception and Planning**
 
 ### [Enhancing Feature Tracking Reliability for Visual Navigation using Real-Time Safety Filter](https://arxiv.org/abs/2502.01092)  
 **Dabin Kim**, Inkyu Jang, Youngsoo Han, Sunwoo Hwang, and H. Jin Kim  
-**ICRA, 2025**  
+**2025 ICRA**  
 A real-time safety filter enhances visual feature tracking by modifying robot velocity using a quadratic program.  
 
 ### [Estimation of Constraint Admissible Invariant Set with Neural Lyapunov Function](https://arxiv.org/abs/2409.19881)  
 **Dabin Kim** and H. Jin Kim  
-**CDC, 2024**  
+**2024 CDC**  
 Learning-based estimation of CAPI sets for general reference tracking and real-time constrained control using neural Lyapunov functions.  
 
 ### [Visibility-Constrained Control of Multirotor via Reference Governor](https://arxiv.org/abs/2308.05334)  
 **Dabin Kim**, Matthias Pezzutto, Luca Schenato, and H. Jin Kim  
-**CDC, 2023** 
+**2023 CDC**  
 Reference governor for real-time multirotor control that enforces visibility constraints with guaranteed feasibility under time-varying references.
 
 <!-- Optionally add a button -->
