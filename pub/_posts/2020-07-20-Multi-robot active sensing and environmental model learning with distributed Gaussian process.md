@@ -20,6 +20,7 @@ excerpt: This letter proposes a distributed multi-robot exploration algorithm th
 ---
 
 {% include youtubePlayer.html id="N1KlGbbv20w" %}
+---
 
 This letter deals with the problem of multiple robots working together to explore and gather at the global maximum of the unknown field. Given noisy sensor measurements obtained at the location of robots with no prior knowledge about the environmental map, Gaussian process regression can be an efficient solution to construct a map that represents spatial information with confidence intervals. However, because the conventional Gaussian process algorithm operates in a centralized manner, it is difficult to process information coming from multiple distributed sensors in real-time. In this work, we propose a multi-robot exploration algorithm that deals with the following challenges: i) distributed environmental map construction using networked sensing platforms; ii) online learning using successive measurements suitable for a multi-robot team; iii) multi-agent coordination to discover the highest peak of an unknown environmental field with collision avoidance. We demonstrate the effectiveness of our algorithm via simulation and a topographic survey experiment with multiple UAVs.
 

@@ -21,6 +21,7 @@ excerpt: This article introduces the T³-multirotor, a novel fully actuated mult
 ---
 
 {% include youtubePlayer.html id="-1MihNBS7Zw" %}
+---
 
 This article introduces a fully actuated multirotor flight system utilizing the tilting-thruster-type multirotor (T³-multirotor), a new type of multirotor platform that enables six-controllable-degree-of-freedom flight with minimal structural heterogeneity compared to conventional multirotor designs. This new multirotor platform consists of upper and lower parts (or thruster and fuselage parts), with a unique kinematic structure and dedicated servomechanism that controls the relative attitude between the two parts. With the new mechanism, the fuselage of the T³-multirotor can control the translational and rotational motions independently of each other, allowing six-degree-of-freedom motion that was not possible with conventional multirotors. A dedicated robust control algorithm is developed based on a thorough analysis of system dynamics to derive accurate six-degree-of-freedom motion of the platform. The flight control performance of the platform is validated through simulations and actual experiments. Several flight tasks are also performed to demonstrate the potential of the T³-multirotor in overcoming the limitations of conventional multirotors.
 
