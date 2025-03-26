@@ -73,18 +73,18 @@ _A diagram showing:_
 - With our filter, it slowed or adjusted direction to maintain trackability.
 
 <div style="background: transparent; display: flex; gap: 20px; justify-content: center; text-align: center;">
-
   <div style="flex: 1;">
     <img src="/images/blog/icra25/sim_baseline.gif" alt="Sim" style="width: 100%; max-width: 400px;">
     <p><em>Baseline Result</em></p>
   </div>
-
   <div style="flex: 1;">
     <img src="/images/blog/icra25/sim_proposed.gif" alt="Real" style="width: 100%; max-width: 400px;">
     <p><em>Proposed Result</em></p>
   </div>
-
-  <img src="/images/blog/icra25/sim_result.png" style="max-width: 60%; margin-top: 10px;">
+</div>
+<!-- Figure below the GIFs -->
+<div style="text-align: center; margin-top: 20px;">
+  <img src="/images/blog/icra25/sim_result.png" style="max-width: 60%; height: auto;">
   <p style="font-style: italic; font-size: 0.9rem;">Figure: Simulation Result</p>
 </div>
 
