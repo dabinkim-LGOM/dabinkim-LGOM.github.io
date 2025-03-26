@@ -1,18 +1,18 @@
-<!-- ---
+---
 title: "Online distributed trajectory planning for quadrotor swarm with feasibility guarantee using linear safe corridor"
-# header:
-#   teaser: tumbnails/cdc23.PNG
+header:
+  teaser: tumbnails/ral22.PNG
 conference: R-AL
 links: 
  - paper: 
-  #  file: download/IROS20_full.pdf
-   link: https://dabinkim-lgom.github.io/download/CDC23_arxiv.pdf
-   name: "Paper(draft)"
-#  - video:
-#    link: https://www.youtube.com/watch?v=hPOXH6_0_IE
-#    name: "Video"
-#  - bibtex: 
-#    name: "Bibtex"
+   link: https://ieeexplore.ieee.org/document/9718137/
+   name: "Paper"
+ - video:
+   link: https://www.youtube.com/watch?v=cQ3yr-DMdhM
+   name: "Video"
+ - bibtex: 
+   link: https://scholar.googleusercontent.com/scholar.bib?q=info:1Orb6xbOU1sJ:scholar.google.com/&output=citation&scisdr=ClGxkDOmEOOpnF9S3c0:AFWwaeYAAAAAZ-FUxc3yiRXCNfCvvXMnp-NX0Ao&scisig=AFWwaeYAAAAAZ-FUxecAHf2M7eCk-ppTFXls95I&scisf=4&ct=citation&cd=-1&hl=ko
+   name: "Bibtex"
 ---
 
 <!-- {% include youtubePlayer.html id="G-fS2iqzi1w" %} -->
@@ -33,4 +33,4 @@ This letter presents a new online multi-agent trajectory planning algorithm that
   year={2022},
   publisher={IEEE}
 }
-``` -->
+```

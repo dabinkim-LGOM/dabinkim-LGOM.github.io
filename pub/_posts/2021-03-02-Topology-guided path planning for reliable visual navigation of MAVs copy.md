@@ -5,14 +5,14 @@ header:
 conference: IROS
 links: 
  - paper: 
-  #  file: download/IROS20_full.pdf
    link: https://dabinkim-lgom.github.io/download/IROS2021_final.pdf
    name: "Paper(draft)"
  - video:
    link: https://www.youtube.com/watch?v=hPOXH6_0_IE
    name: "Video"
-#  - bibtex: 
-#    name: "Bibtex"
+ - bibtex:
+   link: https://scholar.googleusercontent.com/scholar.bib?q=info:YwUvpI9uxpkJ:scholar.google.com/&output=citation&scisdr=ClGxkDOmEOOpnF9Tmus:AFWwaeYAAAAAZ-FVguvGS5NorV6_VGXqpaiKyww&scisig=AFWwaeYAAAAAZ-FVggNIpfjvZq-ep6YO8grhhKI&scisf=4&ct=citation&cd=-1&hl=ko 
+   name: "Bibtex"
 ---
 
 <!-- {% include youtubePlayer.html id="G-fS2iqzi1w" %} -->
@@ -23,4 +23,12 @@ Visual navigation has been widely used for state estimation of micro aerial vehi
 
 ## Bibtex <a id="bibtex"></a>
 ```
+@inproceedings{kim2021topology,
+  title={Topology-guided path planning for reliable visual navigation of mavs},
+  author={Kim, Dabin and Kim, Gyeong Chan and Jang, Youngseok and Kim, H Jin},
+  booktitle={2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={3117--3124},
+  year={2021},
+  organization={IEEE}
+}
 ```
