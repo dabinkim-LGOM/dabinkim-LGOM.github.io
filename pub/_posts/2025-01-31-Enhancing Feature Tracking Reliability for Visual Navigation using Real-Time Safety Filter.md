@@ -84,6 +84,8 @@ _A diagram showing:_
     <p><em>Proposed Result</em></p>
   </div>
 
+  <img src="/images/blog/icra25/sim_result.png" style="max-width: 60%; margin-top: 10px;">
+  <p style="font-style: italic; font-size: 0.9rem;">Figure: Simulation Result</p>
 </div>
 
 ### ✅ Real-world Deployment:  
