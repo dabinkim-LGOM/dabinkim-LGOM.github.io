@@ -9,7 +9,7 @@ authors:
   - H. Jin Kim
 links: 
  - paper: 
-   link: http://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09261517
+   link: https://ieeexplore.ieee.org/document/8971664
    name: "Paper"
 excerpt: This paper presents a cooperative transportation system using T³-multirotors, enabling fully-actuated payload trajectory tracking without complex mechanisms like slung loads or manipulators. Leveraging an overactuated system model, the proposed controller achieves stable, efficient tracking with simple linear methods, demonstrating the potential for enhanced aerial transport.
 ---
