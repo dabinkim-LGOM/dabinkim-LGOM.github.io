@@ -10,6 +10,7 @@ links:
  - video:
    link: https://www.youtube.com/watch?v=pZ9nvobevcs
    name: "Video"
+excerpt: This paper presents a real-time safety filter for robot navigation that maintains visual feature visibility by minimally adjusting velocity commands, ensuring reliable pose estimation even in GPS-denied environments. Validated in both simulation and real-world SLAM scenarios, the method outperforms standard controllers by preserving high-quality localization.
 ---
 
 <!-- {% include youtubePlayer.html id="G-fS2iqzi1w" %} -->
