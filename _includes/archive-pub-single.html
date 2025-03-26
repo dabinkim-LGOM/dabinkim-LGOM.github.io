@@ -24,13 +24,21 @@
     {% if teaser %}
       <div class="pub__item-teaser_leftOfText">
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">
-        <img src=
+          <img class="teaser-img" 
+          src=
+            {% if teaser contains "://" %}
+              "{{ teaser }}"
+            {% else %}
+              "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+            {% endif %}
+          alt="">
+          <!-- <img src=
           {% if teaser contains "://" %}
             "{{ teaser }}"
           {% else %}
             "{{ teaser | prepend: "/images/" | prepend: base_path }}"
           {% endif %}
-          alt="">
+          alt=""> -->
         </a>
       </div>
     {% endif %}

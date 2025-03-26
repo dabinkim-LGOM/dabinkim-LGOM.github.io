@@ -2,6 +2,13 @@
    PUBLICATION formating 
    ========================================================================== */
 
+.teaser-img {
+  width: 180px; /* or whatever consistent width you prefer */
+  height: auto; /* maintain aspect ratio */
+  object-fit: cover; /* crop excess to fit frame */
+  border-radius: 8px; /* optional: for a polished look */
+}
+
 .pub {
   margin-bottom: 2em;
 
