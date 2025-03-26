@@ -26,12 +26,14 @@ header:
 <!-- ABOUT ME -->
 ## 👋 About Me
 
-In Spring 2019, I joined <a href="http://larr.snu.ac.kr/" target="_blank">LARR</a> in Seoul National University to pursue research in **Robotics**.
+Hello! I’m Dabin Kim, a Ph.D. student in Mechanical and Aerospace Engineering at Seoul National University, working in the <a href="http://larr.snu.ac.kr/" target="_blank">Lab for Autonomous Robotics (LARR)</a> under the supervision of Prof. H. Jin Kim.
+
+I received my B.S. degrees in Mechanical and Aerospace Engineering from Seoul National University.
+
+My research focuses on **integrating perception and planning** for mobile robots, with particular interests in **sensor-based planning, visual SLAM, safety-critical control, and safe motion planning**.
 
 <!-- [comment]: <> (I am very grateful for the many friends, advisors and my family which support me on this journey.) -->
 <!-- [comment]: <> (### developing artificial 3D perception) -->
-
-My research interests in robotics are in **Integrating Perception and Planning** for mobile robots. 
 
 ---
 
