@@ -26,6 +26,3 @@ This paper suggests a new cooperative transportation system with T³-multirotors
   organization={IEEE}
 }
 ```
-
-
-
