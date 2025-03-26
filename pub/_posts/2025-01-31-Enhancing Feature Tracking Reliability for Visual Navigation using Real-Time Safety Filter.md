@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Feature Tracking Reliability for Visual Navigation using Real-Time Safety Filter"
 header:
-  teaser: tumbnails/icra25.PNG
+  teaser: tumbnails/icra25.png
 conference: ICRA
 links: 
  - paper: 

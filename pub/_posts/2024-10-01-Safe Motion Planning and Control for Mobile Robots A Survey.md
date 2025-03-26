@@ -1,7 +1,7 @@
 ---
 title: "Safe Motion Planning and Control for Mobile Robots: A Survey"
 header:
-  teaser: tumbnails/ijcas24.PNG
+  teaser: tumbnails/ijcas24.png
 conference: IJCAS
 links: 
  - paper: 

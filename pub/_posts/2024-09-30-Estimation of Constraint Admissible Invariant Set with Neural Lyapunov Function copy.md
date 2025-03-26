@@ -1,7 +1,7 @@
 ---
 title: "Estimation of Constraint Admissible Invariant Set with Neural Lyapunov Function"
 header:
-  teaser: tumbnails/cdc24.PNG
+  teaser: tumbnails/cdc24.png
 conference: CDC
 links: 
  - paper: 
