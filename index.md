@@ -42,6 +42,7 @@ My research interests in robotics are in **Integrating Perception and Planning**
 - Jan 2025 - Our paper is accepted for ICRA 2025. 
 - Dec 2024 - Attended to CDC 2024 and oral presentation! 
 - Sep 2024 - Visited and gave a talk at the Padova university about perception-aware planning and control. 
+
 ---
 <!-- PUBLICATIONS -->
 ## 📚 Selected Publications
