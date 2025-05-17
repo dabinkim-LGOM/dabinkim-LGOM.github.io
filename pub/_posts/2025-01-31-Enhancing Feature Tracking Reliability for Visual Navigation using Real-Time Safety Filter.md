@@ -20,7 +20,7 @@ excerpt: This paper presents a real-time safety filter for robot navigation that
 ---
 
 {% include youtubePlayer.html id="pZ9nvobevcs" %}
----
+<!-- ---
 
 ## 🚀 Making Visual Navigation More Reliable  
 ### Enhancing Feature Tracking with a Real-Time Safety Filter
@@ -83,7 +83,7 @@ _A diagram showing:_
   </div>
 </div>
 <!-- Figure below the GIFs -->
-<div style="text-align: center; margin-top: 20px;">
+<!-- <div style="text-align: center; margin-top: 20px;">
   <img src="/images/blog/icra25/sim_result.png" style="max-width: 60%; height: auto;">
   <p style="font-style: italic; font-size: 0.9rem;">Figure: Simulation Result</p>
 </div>
@@ -116,7 +116,7 @@ We’re excited to:
 - Extend it to **multi-sensor fusion** systems
 - Use it in **autonomous drones**, where losing features mid-flight can be fatal
 
----
+--- -->
 
 <!-- Vision sensors are extensively used for localizing a robot's pose, particularly in environments where global localization tools such as GPS or motion capture systems are unavailable. In many visual navigation systems, localization is achieved by detecting and tracking visual features or landmarks, which provide information about the sensor's relative pose. For reliable feature tracking and accurate pose estimation, it is crucial to maintain visibility of a sufficient number of features. This requirement can sometimes conflict with the robot's overall task objective. In this paper, we approach it as a constrained control problem. By leveraging the invariance properties of visibility constraints within the robot's kinematic model, we propose a real-time safety filter based on quadratic programming. This filter takes a reference velocity command as input and produces a modified velocity that minimally deviates from the reference while ensuring the information score from the currently visible features remains above a user-specified threshold. Numerical simulations demonstrate that the proposed safety filter preserves the invariance condition and ensures the visibility of more features than the required minimum. We also validated its real-world performance by integrating it into a visual simultaneous localization and mapping (SLAM) algorithm, where it maintained high estimation quality in challenging environments, outperforming a simple tracking controller. -->
 
