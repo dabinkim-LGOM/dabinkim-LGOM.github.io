@@ -46,7 +46,6 @@ Our work addresses this with a simple question:
 We propose a **real-time safety filter** that runs alongside the robot’s control system. Instead of blindly following a planned velocity, the filter *modifies* the velocity to **keep enough visual features in field of view (FoV)**.
 
 ## 🔧 How Safety Filtering Works (In Simple Terms)
-<div class="centered-container" style="max-width: 800px; margin: auto; padding: 0 2rem;">
 Here’s what happens at each time step:
 
 1. A controller gives a reference velocity (`v_ref`) to the robot.
@@ -54,10 +53,8 @@ Here’s what happens at each time step:
 3. A **quadratic program (QP)** solves for a new velocity (`v_filtered`) that:
    - Remains close to `v_ref`
    - Ensures the feature number score stays above a threshold
-</div>
 
 ## 🧩 Key Challenge and Our Solution
-<div class="centered-container" style="max-width: 800px; margin: auto; padding: 0 2rem;">
 Traditional safety filtering methods, such as those based on **Control Barrier Functions (CBFs)**, are designed to prevent the robot from violating hard safety constraints (e.g., collisions). However, directly applying such rigid constraints to feature visibility would **over-constrain** the system—preventing the robot from exploring, even when **new features** might become visible from newly observed regions.
 
 Conversely, **blindly following** the reference command may cause the robot to lose too many features, degrading localization performance.
@@ -70,24 +67,24 @@ To resolve this trade-off, we propose a **parameterized safety filter** where ea
 This behavior is embedded within a QP formulation that guarantees **recursive feasibility**—ensuring that a safe solution exists at every time step.
 
 For a rigorous mathematical treatment, please refer to our paper.
-</div>
 
 ### ✅ Simulation:  
 - We tested in a simulated setup with a robot commanded to revolve in a circle (fixed orientation).
 - Without the filter, the robot frequently lost visual features.
 - With the filter, it adaptively slowed or adjusted its path to maintain feature visibility.
 
-<div style="background: transparent; display: flex; gap: 20px; justify-content: center; text-align: center;">
-  <div style="flex: 1;">
-    <img src="/images/blog/icra25/sim_baseline.gif" alt="Sim" style="width: 100%; max-width: 400px;">
-    <p><em>Baseline Result</em></p>
-  </div>
-  <div style="flex: 1;">
-    <img src="/images/blog/icra25/sim_proposed.gif" alt="Real" style="width: 100%; max-width: 400px;">
-    <p><em>Proposed Result</em></p>
+<div class="centered-container" style="max-width: 800px; margin: auto; padding: 0 2rem;">
+  <div style="background: transparent; display: flex; gap: 20px; justify-content: center; text-align: center;">
+    <div style="flex: 1;">
+      <img src="/images/blog/icra25/sim_baseline.gif" alt="Sim" style="width: 100%; max-width: 400px;">
+      <p><em>Baseline Result</em></p>
+    </div>
+    <div style="flex: 1;">
+      <img src="/images/blog/icra25/sim_proposed.gif" alt="Real" style="width: 100%; max-width: 400px;">
+      <p><em>Proposed Result</em></p>
+    </div>
   </div>
 </div>
-
 <!-- - The below figure shows that with safety filter, the tracked -->
 
 <!-- Figure below the GIFs -->
@@ -102,6 +99,7 @@ For a rigorous mathematical treatment, please refer to our paper.
 - Without the filter, the robot entered feature-poor regions and suffered tracking loss.
 - With the filter, it proactively adjusted orientation to preserve feature visibility and only returned to the reference path once new features were found.
 
+<div class="centered-container" style="max-width: 800px; margin: auto; padding: 0 2rem;">
 <div class="grid-2x2" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; text-align: center; max-width: 900px; margin: auto;">
 <!-- <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; text-align: center; max-width: 900px; margin: auto;"> -->
   <!-- Top Left -->
@@ -136,7 +134,7 @@ For a rigorous mathematical treatment, please refer to our paper.
     <p><em>Proposed (Onboard View)</em></p>
   </div>
 </div>
-
+</div>
 - The plot below shows that **without the filter**, a sudden drop in tracked features (left) leads to a sharp rise in localization error (right).  
 - **With the filter**, the feature count remains stable and drift increases more gradually.
 
