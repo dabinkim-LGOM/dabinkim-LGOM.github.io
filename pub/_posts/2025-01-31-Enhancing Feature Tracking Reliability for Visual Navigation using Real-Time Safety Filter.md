@@ -115,7 +115,7 @@ For a rigorous mathematical treatment, please refer to our paper.
   <div>
     <img src="/images/blog/icra25/exp_baseline_onboard.gif"
          alt="Baseline - Onboard"
-         style="width: 100%; height: 220px; object-fit: contain;">
+         style="width: 100%; height: 250px; object-fit: contain;">
     <p><em>Baseline (Onboard View)</em></p>
   </div>
 
@@ -131,7 +131,7 @@ For a rigorous mathematical treatment, please refer to our paper.
   <div>
     <img src="/images/blog/icra25/exp_proposed_onboard.gif"
          alt="Proposed - Onboard"
-         style="width: 100%; height: 220px; object-fit: contain;">
+         style="width: 100%; height: 250px; object-fit: contain;">
     <p><em>Proposed (Onboard View)</em></p>
   </div>
 </div>
