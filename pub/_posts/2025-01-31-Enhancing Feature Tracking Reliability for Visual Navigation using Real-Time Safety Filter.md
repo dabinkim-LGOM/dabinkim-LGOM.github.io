@@ -146,7 +146,6 @@ For a rigorous mathematical treatment, please refer to our paper.
   <div style="flex: 1;">
     <img src="/images/blog/icra25/exp_estimation_error.png" style="max-width: 50%; height: auto;">
   </div>
-  <!-- <p style="font-style: italic; font-size: 0.9rem;">Figure: Impact of Safety Filter on Feature Count and Pose Error</p> -->
 </div>
 
 ---
