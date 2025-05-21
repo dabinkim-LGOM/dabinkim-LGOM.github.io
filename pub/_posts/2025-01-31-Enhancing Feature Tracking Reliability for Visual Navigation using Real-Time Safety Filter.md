@@ -115,7 +115,7 @@ For a rigorous mathematical treatment, please refer to our paper.
     <img src="/images/blog/icra25/exp_baseline_onboard.gif"
          alt="Baseline - Onboard"
          style="width: 100%; max-width: 400px; height: auto;  object-fit: contain;">
-    <p><em>Baseline (Onboard View)</em></p>
+    <p><em>Onboard View</em></p>
   </div>
 
   <!-- Bottom Left -->
@@ -131,13 +131,14 @@ For a rigorous mathematical treatment, please refer to our paper.
     <img src="/images/blog/icra25/exp_proposed_onboard.gif"
          alt="Proposed - Onboard"
          style="width: 100%; max-width: 400px; height: auto; object-fit: contain;">
-    <p><em>Proposed (Onboard View)</em></p>
+    <p><em>Onboard View</em></p>
   </div>
 </div>
 </div>
 - The plot below shows that **without the filter**, a sudden drop in tracked features (left) leads to a sharp rise in localization error (right).  
 - **With the filter**, the feature count remains stable and drift increases more gradually.
 
+<div class="centered-container" style="max-width: 800px; margin: auto; padding: 0 2rem;">
 <div class="flex-row" style="display: flex; justify-content: center; gap: 40px; text-align: center; margin-top: 20px;">
 <!-- <div style="display: flex; justify-content: center; gap: 40px; text-align: center; margin-top: 20px;"> -->
   <div style="flex: 1;">
@@ -147,6 +148,7 @@ For a rigorous mathematical treatment, please refer to our paper.
     <img src="/images/blog/icra25/exp_estimation_error.png" style="max-width: 100%; height: auto;">
   </div>
 </div>
+</div>
 
 ---
 
@@ -154,8 +156,8 @@ For a rigorous mathematical treatment, please refer to our paper.
 ## 🧩 Future Ideas
 
 We’re excited to:
-- Combine this with **active vision** to move toward richer feature regions, including **perception-aware planning** for full autonomy
-- Use it in **autonomous exploration**, where exploring the unkown region while without losing features mid-flight to reduce drift
+- Combine this with **perception-aware planning** to guide robots toward feature-rich regions, completing the full visual navigation stack.
+- Extend it to **autonomous exploration**, enabling robots to safely explore unknown environments without losing visual features.
 
 --- 
 <!-- Vision sensors are extensively used for localizing a robot's pose, particularly in environments where global localization tools such as GPS or motion capture systems are unavailable. In many visual navigation systems, localization is achieved by detecting and tracking visual features or landmarks, which provide information about the sensor's relative pose. For reliable feature tracking and accurate pose estimation, it is crucial to maintain visibility of a sufficient number of features. This requirement can sometimes conflict with the robot's overall task objective. In this paper, we approach it as a constrained control problem. By leveraging the invariance properties of visibility constraints within the robot's kinematic model, we propose a real-time safety filter based on quadratic programming. This filter takes a reference velocity command as input and produces a modified velocity that minimally deviates from the reference while ensuring the information score from the currently visible features remains above a user-specified threshold. Numerical simulations demonstrate that the proposed safety filter preserves the invariance condition and ensures the visibility of more features than the required minimum. We also validated its real-world performance by integrating it into a visual simultaneous localization and mapping (SLAM) algorithm, where it maintained high estimation quality in challenging environments, outperforming a simple tracking controller. -->
