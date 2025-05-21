@@ -46,7 +46,7 @@ Our work addresses this with a simple question:
 We propose a **real-time safety filter** that runs alongside the robot’s control system. Instead of blindly following a planned velocity, the filter *modifies* the velocity to **keep enough visual features in field of view (FoV)**.
 
 ## 🔧 How Safety Filtering Works (In Simple Terms)
-
+<div class="centered-container" style="max-width: 800px; margin: auto; padding: 0 2rem;">
 Here’s what happens at each time step:
 
 1. A controller gives a reference velocity (`v_ref`) to the robot.
@@ -54,10 +54,10 @@ Here’s what happens at each time step:
 3. A **quadratic program (QP)** solves for a new velocity (`v_filtered`) that:
    - Remains close to `v_ref`
    - Ensures the feature number score stays above a threshold
-
+</div>
 
 ## 🧩 Key Challenge and Our Solution
-
+<div class="centered-container" style="max-width: 800px; margin: auto; padding: 0 2rem;">
 Traditional safety filtering methods, such as those based on **Control Barrier Functions (CBFs)**, are designed to prevent the robot from violating hard safety constraints (e.g., collisions). However, directly applying such rigid constraints to feature visibility would **over-constrain** the system—preventing the robot from exploring, even when **new features** might become visible from newly observed regions.
 
 Conversely, **blindly following** the reference command may cause the robot to lose too many features, degrading localization performance.
@@ -70,7 +70,7 @@ To resolve this trade-off, we propose a **parameterized safety filter** where ea
 This behavior is embedded within a QP formulation that guarantees **recursive feasibility**—ensuring that a safe solution exists at every time step.
 
 For a rigorous mathematical treatment, please refer to our paper.
-
+</div>
 
 ### ✅ Simulation:  
 - We tested in a simulated setup with a robot commanded to revolve in a circle (fixed orientation).
