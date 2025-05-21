@@ -115,7 +115,7 @@ For a rigorous mathematical treatment, please refer to our paper.
   <div>
     <img src="/images/blog/icra25/exp_baseline_onboard.gif"
          alt="Baseline - Onboard"
-         style="width: 100%; height: 240px; object-fit: contain;">
+         style="width: 100%; height: 220px; object-fit: contain;">
     <p><em>Baseline (Onboard View)</em></p>
   </div>
 
@@ -131,7 +131,7 @@ For a rigorous mathematical treatment, please refer to our paper.
   <div>
     <img src="/images/blog/icra25/exp_proposed_onboard.gif"
          alt="Proposed - Onboard"
-         style="width: 100%; height: 240px; object-fit: contain;">
+         style="width: 100%; height: 220px; object-fit: contain;">
     <p><em>Proposed (Onboard View)</em></p>
   </div>
 </div>
@@ -139,12 +139,12 @@ For a rigorous mathematical treatment, please refer to our paper.
 - The plot below shows that **without the filter**, a sudden drop in tracked features (left) leads to a sharp rise in localization error (right).  
 - **With the filter**, the feature count remains stable and drift increases more gradually.
 
-<div style="text-align: center; margin-top: 20px;">
+<div style="display: flex; justify-content: center; gap: 40px; text-align: center; margin-top: 20px;">
   <div style="flex: 1;">
-    <img src="/images/blog/icra25/exp_feature_number.png" style="max-width: 50%; height: auto;">
+    <img src="/images/blog/icra25/exp_feature_number.png" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
-    <img src="/images/blog/icra25/exp_estimation_error.png" style="max-width: 50%; height: auto;">
+    <img src="/images/blog/icra25/exp_estimation_error.png" style="max-width: 100%; height: auto;">
   </div>
 </div>
 
