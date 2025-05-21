@@ -106,8 +106,8 @@ For a rigorous mathematical treatment, please refer to our paper.
   <!-- Top Left -->
   <div>
     <img src="/images/blog/icra25/exp_baseline.gif"
-         alt="Baseline - Third Person"
-         style="width: 100%; height: 250px; object-fit: contain;">
+         alt="Baseline"
+         style="width: 100%; max-width: 400px; height: auto; object-fit: contain;">
     <p><em>Baseline (Third-Person View)</em></p>
   </div>
 
@@ -115,15 +115,15 @@ For a rigorous mathematical treatment, please refer to our paper.
   <div>
     <img src="/images/blog/icra25/exp_baseline_onboard.gif"
          alt="Baseline - Onboard"
-         style="width: 100%; height: 250px; object-fit: contain;">
+         style="width: 100%; max-width: 400px; height: auto;  object-fit: contain;">
     <p><em>Baseline (Onboard View)</em></p>
   </div>
 
   <!-- Bottom Left -->
   <div>
     <img src="/images/blog/icra25/exp_proposed.gif"
-         alt="Proposed - Third Person"
-         style="width: 100%; height: 250px; object-fit: contain;">
+         alt="Proposed"
+         style="width: 100%; max-width: 400px; height: auto;  object-fit: contain;">
     <p><em>Proposed (Third-Person View)</em></p>
   </div>
 
@@ -131,7 +131,7 @@ For a rigorous mathematical treatment, please refer to our paper.
   <div>
     <img src="/images/blog/icra25/exp_proposed_onboard.gif"
          alt="Proposed - Onboard"
-         style="width: 100%; height: 250px; object-fit: contain;">
+         style="width: 100%; max-width: 400px; height: auto; object-fit: contain;">
     <p><em>Proposed (Onboard View)</em></p>
   </div>
 </div>
