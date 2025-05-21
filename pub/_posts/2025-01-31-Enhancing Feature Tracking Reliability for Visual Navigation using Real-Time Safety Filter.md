@@ -127,6 +127,7 @@ For a rigorous mathematical treatment, please refer to our paper.
     </div>
   </div>
 </div>
+
 - The plot below shows that **without the filter**, a sudden drop in tracked features (left) leads to a sharp rise in localization error (right).  
 - **With the filter**, the feature count remains stable and drift increases more gradually.
 
