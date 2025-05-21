@@ -141,15 +141,14 @@ For a rigorous mathematical treatment, please refer to our paper.
 
 <div style="text-align: center; margin-top: 20px;">
   <div style="flex: 1;">
-    <img src="/images/blog/icra25/exp_feature_number.png" style="max-width: 60%; height: auto;">
-    <p><em>Number of Tracked Features</em></p>
+    <img src="/images/blog/icra25/exp_feature_number.png" style="max-width: 50%; height: auto;">
   </div>
   <div style="flex: 1;">
-    <img src="/images/blog/icra25/exp_estimation_error.png" style="max-width: 60%; height: auto;">
-    <p><em>Translational Estimation Error</em></p>
+    <img src="/images/blog/icra25/exp_estimation_error.png" style="max-width: 50%; height: auto;">
   </div>
   <!-- <p style="font-style: italic; font-size: 0.9rem;">Figure: Impact of Safety Filter on Feature Count and Pose Error</p> -->
 </div>
+
 ---
 
 
