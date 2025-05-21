@@ -74,13 +74,13 @@ For a rigorous mathematical treatment, please refer to our paper.
 - With the filter, it adaptively slowed or adjusted its path to maintain feature visibility.
 
 <div class="centered-container" style="max-width: 800px; margin: auto; padding: 0 2rem;">
-  <div style="background: transparent; display: flex; gap: 20px; justify-content: center; text-align: center;">
+  <div style="background: transparent; display: flex; gap: 10px; justify-content: center; text-align: center;">
     <div style="flex: 1;">
-      <img src="/images/blog/icra25/sim_baseline.gif" alt="Sim" style="width: 100%; max-width: 400px;">
+      <img src="/images/blog/icra25/sim_baseline.gif" alt="Sim" style="width: 100%; max-width: 600px;">
       <p><em>Baseline Result</em></p>
     </div>
     <div style="flex: 1;">
-      <img src="/images/blog/icra25/sim_proposed.gif" alt="Real" style="width: 100%; max-width: 400px;">
+      <img src="/images/blog/icra25/sim_proposed.gif" alt="Real" style="width: 100%; max-width: 600px;">
       <p><em>Proposed Result</em></p>
     </div>
   </div>
@@ -100,13 +100,13 @@ For a rigorous mathematical treatment, please refer to our paper.
 - With the filter, it proactively adjusted orientation to preserve feature visibility and only returned to the reference path once new features were found.
 
 <div class="centered-container" style="max-width: 800px; margin: auto; padding: 0 2rem;">
-<div class="grid-2x2" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; text-align: center; max-width: 900px; margin: auto;">
+<div class="grid-2x2" style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; text-align: center; max-width: 900px; margin: auto;">
 <!-- <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; text-align: center; max-width: 900px; margin: auto;"> -->
   <!-- Top Left -->
   <div>
     <img src="/images/blog/icra25/exp_baseline.gif"
          alt="Baseline"
-         style="width: 100%; max-width: 400px; height: auto; object-fit: contain;">
+         style="width: 100%; max-width: 600px; height: auto; object-fit: contain;">
     <p><em>Baseline</em></p>
   </div>
 
@@ -114,7 +114,7 @@ For a rigorous mathematical treatment, please refer to our paper.
   <div>
     <img src="/images/blog/icra25/exp_baseline_onboard.gif"
          alt="Baseline - Onboard"
-         style="width: 100%; max-width: 400px; height: auto;  object-fit: contain;">
+         style="width: 100%; max-width: 600px; height: auto;  object-fit: contain;">
     <p><em>Onboard View</em></p>
   </div>
 
@@ -122,7 +122,7 @@ For a rigorous mathematical treatment, please refer to our paper.
   <div>
     <img src="/images/blog/icra25/exp_proposed.gif"
          alt="Proposed"
-         style="width: 100%; max-width: 400px; height: auto;  object-fit: contain;">
+         style="width: 100%; max-width: 600px; height: auto;  object-fit: contain;">
     <p><em>Proposed</em></p>
   </div>
 
@@ -130,7 +130,7 @@ For a rigorous mathematical treatment, please refer to our paper.
   <div>
     <img src="/images/blog/icra25/exp_proposed_onboard.gif"
          alt="Proposed - Onboard"
-         style="width: 100%; max-width: 400px; height: auto; object-fit: contain;">
+         style="width: 100%; max-width: 600px; height: auto; object-fit: contain;">
     <p><em>Onboard View</em></p>
   </div>
 </div>
