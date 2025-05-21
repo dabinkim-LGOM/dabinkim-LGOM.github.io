@@ -109,7 +109,7 @@ For a rigorous mathematical treatment, please refer to our paper.
     <img src="/images/blog/icra25/exp_baseline.gif"
          alt="Baseline"
          style="width: 100%; max-width: 400px; height: auto; object-fit: contain;">
-    <p><em>Baseline (Third-Person View)</em></p>
+    <p><em>Baseline</em></p>
   </div>
 
   <!-- Top Right -->
@@ -125,7 +125,7 @@ For a rigorous mathematical treatment, please refer to our paper.
     <img src="/images/blog/icra25/exp_proposed.gif"
          alt="Proposed"
          style="width: 100%; max-width: 400px; height: auto;  object-fit: contain;">
-    <p><em>Proposed (Third-Person View)</em></p>
+    <p><em>Proposed</em></p>
   </div>
 
   <!-- Bottom Right -->
