@@ -105,22 +105,33 @@ For a rigorous mathematical treatment, please refer to our paper.
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; text-align: center; max-width: 900px; margin: auto;">
   <!-- Top Left -->
   <div>
-    <img src="/images/blog/icra25/exp_baseline.gif" alt="Baseline - Third Person" style="width: 100%; max-width: 400px;">
+    <img src="/images/blog/icra25/exp_baseline.gif"
+         alt="Baseline - Third Person"
+         style="width: 100%; height: 250px; object-fit: contain;">
     <p><em>Baseline (Third-Person View)</em></p>
-  </div>  
+  </div>
+
   <!-- Top Right -->
   <div>
-    <img src="/images/blog/icra25/exp_baseline_onboard.gif" alt="Baseline - Onboard" style="width: 100%; max-width: 400px;">
+    <img src="/images/blog/icra25/exp_baseline_onboard.gif"
+         alt="Baseline - Onboard"
+         style="width: 100%; height: 250px; object-fit: contain;">
     <p><em>Baseline (Onboard View)</em></p>
   </div>
+
   <!-- Bottom Left -->
   <div>
-    <img src="/images/blog/icra25/exp_proposed.gif" alt="Proposed - Third Person" style="width: 100%; max-width: 400px;">
+    <img src="/images/blog/icra25/exp_proposed.gif"
+         alt="Proposed - Third Person"
+         style="width: 100%; height: 250px; object-fit: contain;">
     <p><em>Proposed (Third-Person View)</em></p>
   </div>
+
   <!-- Bottom Right -->
   <div>
-    <img src="/images/blog/icra25/exp_proposed_onboard.gif" alt="Proposed - Onboard" style="width: 100%; max-width: 400px;">
+    <img src="/images/blog/icra25/exp_proposed_onboard.gif"
+         alt="Proposed - Onboard"
+         style="width: 100%; height: 250px; object-fit: contain;">
     <p><em>Proposed (Onboard View)</em></p>
   </div>
 </div>
