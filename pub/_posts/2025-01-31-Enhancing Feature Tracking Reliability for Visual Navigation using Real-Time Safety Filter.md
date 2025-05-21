@@ -102,7 +102,8 @@ For a rigorous mathematical treatment, please refer to our paper.
 - Without the filter, the robot entered feature-poor regions and suffered tracking loss.
 - With the filter, it proactively adjusted orientation to preserve feature visibility and only returned to the reference path once new features were found.
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; text-align: center; max-width: 900px; margin: auto;">
+<div class="grid-2x2" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; text-align: center; max-width: 900px; margin: auto;">
+<!-- <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; text-align: center; max-width: 900px; margin: auto;"> -->
   <!-- Top Left -->
   <div>
     <img src="/images/blog/icra25/exp_baseline.gif"
@@ -139,7 +140,8 @@ For a rigorous mathematical treatment, please refer to our paper.
 - The plot below shows that **without the filter**, a sudden drop in tracked features (left) leads to a sharp rise in localization error (right).  
 - **With the filter**, the feature count remains stable and drift increases more gradually.
 
-<div style="display: flex; justify-content: center; gap: 40px; text-align: center; margin-top: 20px;">
+<div class="flex-row" style="display: flex; justify-content: center; gap: 40px; text-align: center; margin-top: 20px;">
+<!-- <div style="display: flex; justify-content: center; gap: 40px; text-align: center; margin-top: 20px;"> -->
   <div style="flex: 1;">
     <img src="/images/blog/icra25/exp_feature_number.png" style="max-width: 100%; height: auto;">
   </div>
