@@ -32,11 +32,13 @@ Our work addresses this with a simple question:
 **Can we make a robot proactively preserve its feature visibility — *before* it’s too late?**
 
 ---
+
 ## 📈 Why It Matters
 
 - 🎯 **SLAM safety**: Prevents catastrophic failures due to sudden feature loss.
 - ⚡ **Real-time**: The filter runs fast enough to be deployed on real robots.
 - 🧠 **Minimal intervention**: Only adjusts motion when necessary — keeps nominal behavior otherwise.
+
 ---
 
 ## 🎯 Key Idea: A Real-Time Safety Filter for Features
@@ -47,9 +49,9 @@ We propose a **real-time safety filter** that runs alongside the robot’s contr
 
 Here’s what happens at each time step:
 
-1. 🧭 A controller gives a reference velocity (`v_ref`) to the robot.
-2. 👁 The onboard camera detects visual features and formulates inequality constraints that aim to keep a sufficient number of features within the FoV, ensuring their forward invariance.
-3. 🧮 A **quadratic program (QP)** solves for a new velocity (`v_filtered`) that:
+1. A controller gives a reference velocity (`v_ref`) to the robot.
+2. The onboard camera detects visual features and formulates inequality constraints that aim to keep a sufficient number of features within the FoV, ensuring their forward invariance.
+3. A **quadratic program (QP)** solves for a new velocity (`v_filtered`) that:
    - Remains close to `v_ref`
    - Ensures the feature number score stays above a threshold
 
