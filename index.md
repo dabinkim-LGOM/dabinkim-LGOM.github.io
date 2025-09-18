@@ -38,6 +38,7 @@ My research focuses on **integrating perception and planning** for mobile robots
 ---
 <!-- NEWS -->
 ## 📰 News
+- Sep 2025 - Our paper was published to IEEE Access. 
 - May 2025 - I’ll be presenting at <a href="https://2025.ieee-icra.org/" target="_blank">ICRA 2025</a> in Atlanta for paper presentation and participating in the <a href="https://2025.ieee-icra.org/event/icra-2025-doctoral-consortium/" target="_blank">Doctoral Consortium</a>!
 - Mar 2025 - 🔍 Post for our recent paper released: <a href="https://dabinkim-lgom.github.io/pub/Enhancing-Feature-Tracking-Reliability-for-Visual-Navigation-using-Real-Time-Safety-Filter/" target="_blank">[Safety-Critical Control for Visual SLAM]</a>
 - Jan 2025 - Our paper was accepted to ICRA 2025. 
