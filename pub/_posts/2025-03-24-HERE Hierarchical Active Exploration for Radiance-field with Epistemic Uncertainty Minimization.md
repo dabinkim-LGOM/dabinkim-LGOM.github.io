@@ -2,7 +2,7 @@
 title: "HERE: Hierarchical Active Exploration for Radiance-field with Epistemic Uncertainty Minimization (Under Review)"
 # header:
 #   teaser: tumbnails/iccv25.png
-conference: ICCV
+conference: RA-L
 authors:
   - Taekbeom Lee*
   - Dabin Kim*

@@ -1,0 +1,28 @@
+---
+title: "Safe Reactive Control for Autonomous Navigation in Unknown Environments via Probabilistic Maps"
+# header:
+#   teaser: tumbnails/iccv25.png
+conference: IEEE Access
+authors:
+  - Dabin Kim
+  - Youngsoo Han
+  - H. Jin Kim
+links: 
+ - paper: 
+#    link: https://arxiv.org/pdf/2502.01092
+   name: "Paper"
+ - video:
+#    link: https://www.youtube.com/watch?v=pZ9nvobevcs
+   name: "Video" 
+excerpt: This work proposes a reactive and safe control strategy for mobile robots that operates over Gaussian Process-based probabilistic maps, addressing the challenges of noisy and sparse sensor measurements. By integrating control barrier functions with risk measures on occupancy and uncertainty, and introducing an object-level probabilistic mapping approach, the framework enables risk-aware navigation in unknown environments and is validated through simulations and hardware experiments.
+---
+
+<!-- {% include youtubePlayer.html id="G-fS2iqzi1w" %} -->
+
+Achieving full autonomy in robotics requires safe navigation and reliable collision avoidance in unknown environments. This demands robust perception and mapping, as well as control strategies that can effectively utilize environmental information while enforcing safety constraints. However, to address noisy and sparse measurements from inexpensive onboard sensors commonly used on low-power mobile platforms, probabilistic and continuous map representations have emerged as more effective alternatives to traditional deterministic occupancy grids. Despite their advantages in perception and mapping, their integration into safety-critical control frameworks remains underexplored. In this work, we address this gap by proposing a reactive and safe control strategy that operates over probabilistic maps constructed using Gaussian Process-based continuous representations. Our method combines a reactive control framework with control barrier functions, and incorporates risk measures that consider both occupancy probabilities and their associated uncertainties. Furthermore, for practical implementation, we introduce an object-level probabilistic mapping approach suited for indoor environments and integrate it with the proposed control strategy. The resulting framework enables risk-aware, reactive navigation in previously unknown environments. We validate its effectiveness through extensive simulations and hardware experiments, demonstrating robust vision-based navigation under uncertainty.
+
+{% include base_path %}
+
+## Bibtex <a id="bibtex"></a>
+```
+```
