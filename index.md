@@ -38,6 +38,7 @@ My research focuses on **integrating perception and planning** for mobile robots
 ---
 <!-- NEWS -->
 ## 📰 News
+- Jan 2026 - Two RA-L papers are accepted. 
 - Dec 2025 - I succesfully defended my Ph.D.!
 - Oct 2025 - I am honored to have received the Top Prize in the Korea Aerospace Industries (KAI) Aerospace Paper Award.
 - Sep 2025 - Our paper was published to IEEE Access. 
