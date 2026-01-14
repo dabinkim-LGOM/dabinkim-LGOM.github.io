@@ -38,7 +38,7 @@ My research focuses on **integrating perception and planning** for mobile robots
 ---
 <!-- NEWS -->
 ## 📰 News
-- Jan 2026 - Two RA-L papers are accepted. 
+- Jan 2026 - Two papers are accepted to RA-L. 
 - Dec 2025 - I succesfully defended my Ph.D.!
 - Oct 2025 - I am honored to have received the Top Prize in the Korea Aerospace Industries (KAI) Aerospace Paper Award.
 - Sep 2025 - Our paper was published to IEEE Access. 
@@ -53,6 +53,10 @@ My research focuses on **integrating perception and planning** for mobile robots
 ---
 <!-- PUBLICATIONS -->
 ## 📚 Selected Publications
+### [HERE: Hierarchical Active Exploration of Radiance Field with Epistemic Uncertainty Minimization](https://arxiv.org/abs/2601.07242)
+Taekbeom Lee\*, **Dabin Kim\***, Youngseok Jang, and H. Jin Kim
+**2026 RA-L**
+Active 3D scene reconstruction framework based on neural radiance fields for high-fidelity mapping. 
 
 ### [Enhancing Feature Tracking Reliability for Visual Navigation using Real-Time Safety Filter](https://arxiv.org/abs/2502.01092)  
 **Dabin Kim\***, Inkyu Jang\*, Youngsoo Han, Sunwoo Hwang, and H. Jin Kim  
@@ -64,10 +68,10 @@ A real-time safety filter enhances visual feature tracking by modifying robot ve
 **2024 CDC**  
 Learning-based estimation of CAPI sets for general reference tracking and real-time constrained control using neural Lyapunov functions.  
 
-### [Visibility-Constrained Control of Multirotor via Reference Governor](https://arxiv.org/abs/2308.05334)  
+<!-- ### [Visibility-Constrained Control of Multirotor via Reference Governor](https://arxiv.org/abs/2308.05334)  
 **Dabin Kim**, Matthias Pezzutto, Luca Schenato, and H. Jin Kim  
 **2023 CDC**  
-Reference governor for real-time multirotor control that enforces visibility constraints with guaranteed feasibility under time-varying references.
+Reference governor for real-time multirotor control that enforces visibility constraints with guaranteed feasibility under time-varying references. -->
 
 <!-- Optionally add a button -->
 <p style="text-align: right;">
