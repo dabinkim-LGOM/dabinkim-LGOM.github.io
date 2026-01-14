@@ -54,8 +54,8 @@ My research focuses on **integrating perception and planning** for mobile robots
 <!-- PUBLICATIONS -->
 ## 📚 Selected Publications
 ### [HERE: Hierarchical Active Exploration of Radiance Field with Epistemic Uncertainty Minimization](https://arxiv.org/abs/2601.07242)
-Taekbeom Lee\*, **Dabin Kim\***, Youngseok Jang, and H. Jin Kim
-**2026 RA-L**
+Taekbeom Lee\*, **Dabin Kim\***, Youngseok Jang, and H. Jin Kim  
+**2026 RA-L**  
 Active 3D scene reconstruction framework based on neural radiance fields for high-fidelity mapping. 
 
 ### [Enhancing Feature Tracking Reliability for Visual Navigation using Real-Time Safety Filter](https://arxiv.org/abs/2502.01092)  
