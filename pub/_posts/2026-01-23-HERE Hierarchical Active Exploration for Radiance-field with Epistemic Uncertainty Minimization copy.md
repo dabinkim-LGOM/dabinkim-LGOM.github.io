@@ -13,9 +13,6 @@ links:
  - paper: 
    link: https://ieeexplore.ieee.org/document/11359671
    name: "Paper"
-#  - video:
-#    link: https://www.youtube.com/watch?v=FkY7t2IeWhE
-#    name: "Video" 
 excerpt: This work introduces a fast local trajectory replanning method for autonomous robots navigating crowded 3D environments, designed to identify diverse optimal trajectories without requiring predefined initial guidance. The approach ensures safety by projecting sampled trajectories onto safe constraint sets and clustering them using the Model Predictive Path Integral framework to determine optimal control inputs. Validated through both simulations and hardware experiments with a drone, this method achieves higher success rates and enables safer navigation compared to existing techniques.
 ---
 
