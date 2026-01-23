@@ -1,7 +1,7 @@
 ---
 title: "Safe Multimodal Replanning via Projection-based Trajectory Clustering in Crowded Environments"
 header:
-  teaser: # tumbnails/iccv25.png
+  teaser: tumbnails/ral26_safe.png
 conference: RA-L
 authors:
   - Yongjae Lim
