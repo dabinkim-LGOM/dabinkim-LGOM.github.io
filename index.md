@@ -26,11 +26,11 @@ header:
 <!-- ABOUT ME -->
 ## 👋 About Me
 
-Hello! I’m Dabin Kim, a Ph.D. student in <a href="https://aerospace.snu.ac.kr/en" target="_blank">Mechanical and Aerospace Engineering</a> at <a href="https://en.snu.ac.kr/" target="_blank">Seoul National University</a>, working in the <a href="http://larr.snu.ac.kr/" target="_blank">Lab for Autonomous Robotics (LARR)</a> under the supervision of <a href="https://scholar.google.co.kr/citations?user=TLQUwIMAAAAJ&hl=en" target="_blank">Prof. H. Jin Kim</a>.
+Hello! I’m Dabin Kim, a Postdoctoral Researcher in the Data Science and Artificial Intelligence Lab (DSAIL) at the Department of Electrical and Computer Engineering, <a href="https://en.snu.ac.kr/" target="_blank">Seoul National University</a>, working with Prof. Seong-Ro Yoon. I am also affiliated with Ulsan National Institute of Science and Technology (UNIST) through the InnoCORE Fellow Program.
 
-I received my B.S. degrees in Mechanical and Aerospace Engineering from Seoul National University.
+I received my Ph.D. in <a href="https://aerospace.snu.ac.kr/en" target="_blank">Mechanical and Aerospace Engineering</a> from Seoul National University in 2026, advised by <a href="https://scholar.google.co.kr/citations?user=TLQUwIMAAAAJ&hl=en" target="_blank">Prof. H. Jin Kim</a> at the <a href="http://larr.snu.ac.kr/" target="_blank">Lab for Autonomous Robotics (LARR)</a>. I also received my B.S. in Mechanical and Aerospace Engineering from Seoul National University, graduating summa cum laude.
 
-My research focuses on **integrating perception and planning** for mobile robots, with particular interests in **sensor-based planning, visual SLAM, safety-critical control, and safe motion planning**.
+My research focuses on **safe and generalizable robot autonomy**, with current interests in **robot safety, robot manipulation, vision-language-action (VLA) models, and safety for generalist robot policies**. During my Ph.D., I built a background in **sensor-based planning, visual SLAM, safety-critical control, and safe motion planning**.
 
 <!-- [comment]: <> (I am very grateful for the many friends, advisors and my family which support me on this journey.) -->
 <!-- [comment]: <> (### developing artificial 3D perception) -->
